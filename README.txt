@@ -1,7 +1,7 @@
 This is my personal website. Although I enjoy doing alot of computer-related activities, website design is not my strength.
 With that being said I DID NOT DESIGN THIS WEBSITE! I used this template: https://freehtml5.co/profile-free-html5-bootstrap-template-for-personal-and-vcard-resume-websites/
 I did however, add/subtracted enough html code that I feel comfortable calling this project my own.
-
+The following lines where put here by the creater of the template.
 
 TITLE: 
 Profile - 100% Fully Responsive Free HTML5 Bootstrap Template
