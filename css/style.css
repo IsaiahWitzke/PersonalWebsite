@@ -58,6 +58,13 @@ a:hover, a:active, a:focus {
   text-decoration: none;
 }
 
+.project-header {
+  color: rgb(0, 0, 0);
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+
 p {
   margin-bottom: 30px;
 }
